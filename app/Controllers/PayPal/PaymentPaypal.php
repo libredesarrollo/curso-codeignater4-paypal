@@ -8,8 +8,8 @@ use Exception;
 class PaymentPaypal extends BaseController
 {
 
-    private $clientId = 'AUu2CpCBrva4gbNjqB5IvdV16V93hPLgumgyL7iJgQPs64Rdrp35EepAGDE8GtDlZIwg7i44FrGDY8Eq';
-    private $secret = 'EDuiWwKXnXOBtCyjYFmFiriQjvroIA8kiRdsC2iNnCqAwKwxLi_-hOsZDQlZo7YPsrHDkZCK4-Lnn0iI';
+    private $clientId = '__';
+    private $secret = '__';
     //private $baseURL = 'https://api-m.paypal.com';
     private $baseURL = 'https://api-m.sandbox.paypal.com';
 
